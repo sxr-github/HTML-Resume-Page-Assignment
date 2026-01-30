@@ -1,3 +1,10 @@
+Resume Webpage (HTML Only)
+
+This project is a simple resume webpage created using pure HTML.
+
+It relies on basic HTML elements for structure.
+
+
 Technologies Used :-
 HTML5
 
